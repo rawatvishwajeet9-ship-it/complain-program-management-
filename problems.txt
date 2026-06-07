@@ -1,0 +1,19 @@
+1|rahul|Internet is not working|Pending
+2|mohan|System crashing issue|pending
+3|aman|WiFi connection issue|Pending
+4|rohit|Keyboard not working|InProgress
+5|neha|Monitor flickering problem|pending
+6|sneha|Mouse disconnecting frequently|resolved
+7|arjun|Printer not printing|Pending
+8|priya|Software installation failed|Resolved
+9|karan|System overheating|InProgress
+10|ankit|Network speed too slow|Pending
+11|simran|Laptop battery draining fast|Resolved
+12|deepak|Unable to login system|Pending
+13|ravi|Blue screen error issue|InProgress
+14|pooja|Audio not working properly|pending
+15|nisha|USB ports not detecting device|Resolved
+7|nisha|USB ports not detecting device|Resolved
+
+
+
